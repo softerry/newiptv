@@ -1,0 +1,31 @@
+/*...............................Terms of Service..........................................*/
+.terms .h1-terms{
+  text-align: center;
+}
+.terms{
+  padding: 40px;
+}
+
+
+/*...............................Privacy Policy...........................................*/
+.policy{
+  padding: 40px;
+}
+.policy .myPolicy{
+  text-align: center;
+}
+
+.policy .myPolicy-h3{
+  text-align: center;
+}
+/*...............................Disclaimer & Refund Policy...............................*/
+
+.refund{
+  padding: 40px;
+}
+.refund .myRefund{
+  text-align: center;
+}
+.refund .myRefund-h3{
+  text-align: center;
+}
